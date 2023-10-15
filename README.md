@@ -1,6 +1,6 @@
 # Weather App
 
-This is a simple Weather App that allows users to check the weather for a specific city. It provides real-time weather information, including temperature, humidity, and wind speed.
+This is a simple Weather App that allows users to check the weather for a specific city. It provides real-time weather information, including temperature, humidity, and wind speed. Heavily Inspired by @GreatStack
 
 ## Main Features
 
